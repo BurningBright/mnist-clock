@@ -1,3 +1,10 @@
+# JS version
+![image](/images/clock-js.jpg "image")
+
+[https://github.com/BurningBright/mnist-clock/tree/browse/js](https://github.com/BurningBright/mnist-clock/tree/browse/js)
+
+character library encoded in base64.
+
 # MNIST clock
 
 A clock that displays using randomly selected MNIST digits.
